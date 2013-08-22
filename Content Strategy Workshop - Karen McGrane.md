@@ -106,6 +106,7 @@ The 20 least viewed pages might get more pages views (combined) than th stop 5 p
 - Editorial process, workflow and governance will need to change
 
 ## NPR approach to mobile content
+- COPE (Create once publish everywhere)
 - chunked CMS
 - meta data
 3rd party content
@@ -116,6 +117,10 @@ The 20 least viewed pages might get more pages views (combined) than th stop 5 p
 - made sure their program descriptions included short med and long descriptions, as well as meta data (actors, genre, runtime etc)
 - This data is now used in electronic program guides/TIVO etc
 - used in ways unconceived of when they put system in place
+
+## My diagram
+CONTENT -\> API \<- Cool Shit
+
 
 ## 3 principles
 1. Multiple sizes
@@ -135,7 +140,40 @@ The 20 least viewed pages might get more pages views (combined) than th stop 5 p
 ## Traditional publishing paradigms tie content to display to delivery
 - Preview button on CMS is generally displays a desktop view
 - What is the primary platform? There isn't one
-- Design for the content out (not specific content bu types of content)
-- 
+- Design for the content out (not specific content but types of content)
+
+## Design your content!
+1. ### Reusable content
+Example: Amazon Mobile Details page
+-- Great on desktop. Mobile kinda sucks
+Better use:
+-- Multiple versions (like TV Guide)
+-- Alternative fallbacks 
+
+2. ### Structures content
+More like NPR/Tumlbr > Less like Wordpress
+*Chunks not Blobs*
+
+3. ### Presentation independent markup
+> Try and remove the chocolate from an M&M
+> @lyzadanger
+
+TV Guide example
+
+4. ### Meaningful meta data
+> Metadata is like a love letter to the future
+> @textfiles
+
+5. ### Usable CMS
+> Most CMS were designed ro ad an interface to a database 
+>@eaton
+
+CMS workflow should be treated like a checkout workflow - USe same user testing, research, conversions etc
+
+> The happier people are, the better the content will be, the more they will create
+
+## Use mobile as a wedge to improve content management
+- Separate content from display
+- Design with and for structured content
 
 
