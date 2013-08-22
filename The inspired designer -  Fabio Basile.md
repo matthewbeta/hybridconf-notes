@@ -1,18 +1,23 @@
-# THE INSPIRED DESIGNER - 
+# THE INSPIRED DESIGNER - Fabio Basile
 
 @ffabs
 
 ## Design is fun 
-- profitable and cool and scary and annoying
+and profitable and cool and scary and annoying
+
 ## Designgenerring my way
-- At the beginning obscurityy can be a good thing. You want attention only after you're doing great work
+At the beginning obscurity can be a good thing. You want attention only after you're doing great work
+
 ## Path to Dribbble
-- I had to be part of ut somehow for the taste of success and beyond
-## Mash em loke a pro
-- Just connect the dots and make people really mad at you
-## Desing what you need
-- Fake it tip you make it
+I had to be part of it somehow for the taste of success and beyond
+
+## Mash em like a pro
+Just connect the dots and make people really mad at you
+
+## Design what you need
+Fake it tip you make it
+
 ## Be nice
-- The world is a small town
+The world is a small town
 
 

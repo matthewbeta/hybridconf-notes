@@ -15,19 +15,19 @@ x-channel is designing for all the touchpoint a person has
 - UX,
 - Service design
 
-70% US customers research prods online and purchase offline
+> 70% US customers research prods online and purchase offline
 
-65% of search visitors are looking for further info on something the yea on another channel
+> 65% of search visitors are looking for further info on something the yea on another channel
 
-53% of BING mobile searches have local intent 
+> 53% of BING mobile searches have local intent 
 
 - Static touch points (phone, PC, tablet) can't be edited once shipped
 - Interactive touch points (Sites , social media)
 - Humans
 
-Even for physical prods like coffee, Starbucks have seen benefits by having the cross channel online experience
+Even for physical products like coffee - Starbucks have seen benefits by having the cross channel online experience
 
-- # Customers don't think in context of channels
+## Customers don't think in context of channels
 - If one channel is missing make  the company seem incomplete
 
 ## Methods

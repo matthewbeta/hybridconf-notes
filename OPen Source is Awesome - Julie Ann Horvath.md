@@ -44,4 +44,4 @@
 ## Open source helps you leave tour comfort zone
 - There is no such thing as a secret sauce when it comes to the web
 
-"Lets start making the web better for each other"
+> Lets start making the web better for each other

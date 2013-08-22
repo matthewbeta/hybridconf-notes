@@ -1,5 +1,7 @@
 # Bryan Liles - Visualising data for developers
 
+*note*: This talk was awesome but fast and funny so my notes went to shit… 
+
 *rant* - Arrays
 
 ## Hacking and drawing graphs n web browsers
@@ -30,5 +32,6 @@ d3.js looks amazers.
 
 ## Tenderspider theory
 - Enterprise Ruby > Phuby
+
 ## Any subject can be turned into a ruby talk
 

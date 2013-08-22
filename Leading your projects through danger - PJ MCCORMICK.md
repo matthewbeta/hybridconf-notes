@@ -36,6 +36,6 @@ I hate it so much > I hate sticky elements > I hate poorly done sticky elements
 
 LEading your people through projects
 
-"Tell me more about…"
-- "why you hate it/want the logo bigger/etc"
+> "Tell me more about…"
+ "why you hate it/want the logo bigger/etc"
 

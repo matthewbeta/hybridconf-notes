@@ -6,27 +6,27 @@
 3. Depth (x)
 4. Time
 
-"Abruptness is bad UX"
+## "Abruptness is bad UX"
 - Transitions are not just fluff
 - Delays can be bad for experienced users
 - Context is important "Show me the damn line"
-*Delays are even worse*. Don't piss of your users 
+- *Delays are even worse*. Don't piss of your users 
 
 ## Transitions
-use box shadow to make the modal overlay
+TIP: use box shadow to make the modal overlay
 
-height auto doesn't work. - What is 75% auto?!? (thats why it doesn't work) You need to interpolate between the two states (eg. no block - static)
+height auto doesn't work. - What is 75% auto?!? (thats why it doesn't work) You need to interpolate between the two states (eg. no block > static)
 
-animatable github
+[animatable github](http://leaverou.github.io/animatable/)
 
-Display not animatable but you could. Can't show an item from none to block, but!!! you could with transform scale (0) to 100%
+Display property not animatable but you could hack it. Can't show an item from none to block, but!!! you could with transform scale (0) to 100%
 
-css4 crossfade - 
+CSS4 crossfade
 
 CSS transitions to persist state
 
-cubic-bezier.com
+[cubic-bezier.com](http://cubic-bezier.com)
 
 ## Animations
 
-emit from or to state in keyframes to animate form default states
+You con ommit the from or to state in keyframes to animate from/to default states

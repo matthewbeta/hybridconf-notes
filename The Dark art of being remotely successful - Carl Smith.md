@@ -2,14 +2,18 @@
 
 ## Imposter syndrome
 - uncertainty
-- look at the uncertain never before taken choice more than the other one
+- look at the uncertain never before taken choice more than the others
+
 ## Hierarchy
-- suck
+- It sucks
+
 ## FLat
-- chaos
+- It's chaos
+
 ## Distributed
 - opt-in company
- - the tema hires the team
+ - the team hires the team
+
 ## Raw materials
 - No assholes
 - Self Starter
@@ -41,7 +45,7 @@
 
 ## LEssons learned
 1. Power without experience is dangerous - 
-- not dying to win now
+- Let people fail (when you're not trying to win *now*)
 2. Culture games
 3. Experiment
 4. Shit happens

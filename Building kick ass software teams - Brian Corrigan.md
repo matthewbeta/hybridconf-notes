@@ -7,7 +7,7 @@
 - Requirements constantly changing
 - Everyone is highly creative
 - Empowered to deliver
-- Organization that support them
+- Organisation that support them
 
 ## Great People
 - !Ninjas or rockstars
@@ -22,20 +22,23 @@
 - Skill level
 - Interest - other interests will change how you approach the job
 - Past experience
-- ARea of discipline - Manage for death in games
+- Area of discipline - Manage for death in games
+
 ## Alignment
 - Best teams aligned with each other
 - TEams should be self organised
 - set the expectation is a product developer
-- Diff between design dev ops/qa marginal
-- BEst teams aligned witt he goals of the organisation
+- Diff between design dev ops/QA marginal
+- BEst teams aligned with he goals of the organisation
 - Share as much info as possible!
 - Shitty companies manage by compartmentalising information
 - Allow the tram to brand itself
-- Name the project, gt shirts, github organizations 
+- Name the project, get shirts, github organizations 
+
 ## Build a state of shared vision
-- This is why start ips work
+- This is why startups work
 - 2 dudes in a basement
+
 ## Empowerment
 - Let the teams do the thing they need to do
 - Teams ideally operate autonomously
@@ -43,7 +46,7 @@
 - They create their own processes
 - They report their own results
 - They Set their own hours
-- THey self structyurw
+- THey self structure
 - Teams must have authority to make project decisions
 - Yep bad decisions will happen - thats good. Software problems relatively cheap to fix
 - Give teams a budget or credit card
@@ -71,17 +74,16 @@
 - if you're not technical don't fake it
 - projects don't fail for technical reasons almost never
 - Show me don't tell me
-- Experimentaton is cheap in our industry
+- Experimentation is cheap in our industry
 - Take bullets
 - Ask questions
 - BE available for answers
 - Don't have back-door meetings
-- Don't gotce people on the team who aren't filly invested
-- Dont impose organizational overhead
+- Don't include people on the team who aren't fully invested
+- Dont impose organisational overhead
 - Measure success in 2 ways:
-1) Are we happy
-2) re we productive
-- HVE FUN
-
+1) Are we happy?
+2) Are we productive?
+- *HAVE FUN!*
 You gave 40 or 50 years of productivity - make em count
 

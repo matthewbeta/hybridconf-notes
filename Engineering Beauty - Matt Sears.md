@@ -24,9 +24,10 @@ Hire better designers
 Know your limits
 
 ## Myth
-Design is Magic
+- Design is Magic
+
 ## Fact
-Design is HARD
+- Design is HARD
 (to articulate)
 - Hard to google
 
@@ -36,47 +37,49 @@ Design is HARD
 ## HOw we get better at design
 - Iterate
 
-### 4 Design principles
-- Typography
-type != font
-#### Choosing and pairing
-2 fonts is usually enough
-Keep it in the family
-opposites attract
-avoid two fonts with a lot ov personalty
+## 4 Design principles
 
-- Visual Hierarchy
-Maintianing order of *OBJECTS*
-Negative space
-Gestalt principles of perception (How we perceive the world in complete objects) (Andy Rutledge site has series on these)
-### Similarity
+### Typography
+type != font
+
+#### Choosing and pairing
+- 2 fonts is usually enough
+- Keep it in the family
+- opposites attract
+- avoid two fonts with a lot ov personalty
+
+### Visual Hierarchy
+- Maintianing order of *OBJECTS*
+- Negative space
+- Gestalt principles of perception (How we perceive the world in - complete objects) (Andy Rutledge site has series on these)
+
+#### Similarity
 -- When objects look similar we perceive as a group
-### Continuation 
--- 
-### Closure
+#### Continuation 
+#### Closure
 Inkomplette objects put together to create a complete object
-### PRoximity
+#### PRoximity
 -- Objects near one another we perceive them to belong together
 
-- proportion	
+### proportion	
 One size of an object effects other sized objects 
 -- The key to beauty
 -- Grids
 -- golden ratio / 3:4 ratio / 2:3 ratio
 -- GRidset
 
-- Colour 
+### Colour 
 -- Color is difficult
-### Choosing coloyrs
+#### Choosing colours
 -- Warm/Bright/Dark
 -- Action colours - Hoe to direct users
 -- Color themes
--- Keep it simple (on eor two dominant colours)
-app - colorshceme designer
+-- Keep it simple (one or two dominant colours)
+app - color scheme designer
 app- Kuler
 
-TL;DR
-Learning design is possible
-Apply what you  know already
-It will take some time
+## TL;DR
+- Learning design is possible
+- Apply what you know already
+- It will take some time
 
